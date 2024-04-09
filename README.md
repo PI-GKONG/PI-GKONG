@@ -1,4 +1,4 @@
-![PigKongGitHub](https://github.com/PI-GKONG/PI-GKONG/assets/112669656/b5c077bb-eb5b-49e6-a4fa-4dab19cf7029)
+![PigKongGitHub](https://github.com/PI-GKONG/PI-GKONG/assets/112669656/d9e87dbc-4f90-469e-80f2-05e1beb4b2d8)
 
 <!--
 **PI-GKONG/PI-GKONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
